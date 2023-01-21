@@ -1,0 +1,18 @@
+﻿  main.cpp
+D:\Учеба\C++\Projects\SFML-template\main.cpp(67,57): warning C4305: =: усечение из "double" в "float"
+D:\Учеба\C++\Projects\SFML-template\main.cpp(74,25): warning C4305: =: усечение из "double" в "float"
+D:\Учеба\C++\Projects\SFML-template\main.cpp(75,27): warning C4305: =: усечение из "double" в "float"
+D:\Учеба\C++\Projects\SFML-template\main.cpp(82,52): warning C4305: =: усечение из "double" в "float"
+D:\Учеба\C++\Projects\SFML-template\main.cpp(147,25): warning C4305: =: усечение из "double" в "float"
+D:\Учеба\C++\Projects\SFML-template\main.cpp(163,25): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Учеба\C++\Projects\SFML-template\main.cpp(164,25): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Учеба\C++\Projects\SFML-template\main.cpp(210,14): warning C4244: инициализация: преобразование "sf::Int32" в "float", возможна потеря данных
+  SFML-template.vcxproj -> D:\Учеба\C++\Projects\SFML-template\x64\Debug\SFML-template.exe
